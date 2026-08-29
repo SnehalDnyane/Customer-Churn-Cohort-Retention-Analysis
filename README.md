@@ -1,4 +1,4 @@
-# Customer Churn Analysis
+# Customer Churn & Cohort Retention Analysis
 
 Analyzed 7,043 telecom customers to identify churn drivers — discovered month-to-month contracts churn 15x more than two-year contracts (42.7% vs 2.8%), representing $139K monthly revenue loss. Built SQL-based risk segmentation model and interactive 3-page Power BI dashboard with cohort retention tracking.
 
