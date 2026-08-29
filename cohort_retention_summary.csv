@@ -1,0 +1,7 @@
+tenure_cohort,total_customers,churned_customers,retained_customers,overall_churn_rate,overall_retention_rate
+0_months,11,0,11,0.0,100.0
+1_to_3_months,1051,597,454,56.8,43.2
+4_to_6_months,419,187,232,44.63,55.37
+7_to_12_months,705,253,452,35.89,64.11
+13_to_24_months,1024,294,730,28.71,71.29
+25plus_months,3833,538,3295,14.04,85.96
